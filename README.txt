@@ -1,3 +1,9 @@
+#This theme is based on the Genesis Sample theme. 
+It is a project for my website: learnselfsaveswim.online. See the original readme below
+
+
+
+
 # Genesis Sample Theme
 
 Github project link: https://github.com/copyblogger/genesis-sample/
